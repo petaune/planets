@@ -2,4 +2,9 @@
 cold and dry, but everything is my favorite color
 The two moons may be a problem wolfman
 But the mummy will appreciate the lack of humidity
+<<<<<<< HEAD
 its toasty warm here
+=======
+
+Add a line to mars file 
+>>>>>>> 6f3ec9654102e0b367739628451d339b9192681f
